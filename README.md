@@ -5,7 +5,9 @@ this is a building for [skyscrapersim](https://www.skyscrapersim.net), it is the
 
 • download zip file for this repository
 
-• move the 1000Floors.bld file to C:/Program Files/Skyscraper/buildings
+• extract the zip file
+
+• move the extracted 1000Floors.bld file to C:/Program Files/Skyscraper/buildings
 
 now it's installed!
 
