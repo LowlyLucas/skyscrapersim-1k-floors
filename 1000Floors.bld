@@ -124,7 +124,7 @@ Cut Landscape, -20, -1, -20, 20, 1, 20, false, true
     DrawWalls = true, true, false, false, false, false
 <EndFloors>
 
-<Floor 500>
+<Floor 1000>
     ID = R
     Name = Roof
     Type = Roof
