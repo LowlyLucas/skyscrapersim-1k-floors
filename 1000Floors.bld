@@ -136,7 +136,7 @@ Cut Landscape, -20, -1, -20, 20, 1, 20, false, true
 <EndFloor>
 
 #Shaft 1
-AddShaft 1, 2, 0, 6, 0, 500
+AddShaft 1, 2, 0, 6, 0, 1000
 ShaftCut 1, -4, -4.125 + 0.33, 4, 4.125, 0, 5
 
 <Floors 0 to 1000>
