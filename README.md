@@ -3,7 +3,7 @@ this is a building for [skyscrapersim](https://www.skyscrapersim.net), it is the
 # installation
 **ensure you have skyscrapersim installed before continuing!**
 
-• download the latest release from the releases page
+• download zip file for this repository
 
 • move the 1000Floors.bld file to C:/Program Files/Skyscraper/buildings
 
